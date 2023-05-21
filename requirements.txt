@@ -1,4 +1,4 @@
 # Requirements
-1) Python 3.x
-2) opencv
-3) numpy
+Python 3.x
+OpenCV
+Numpy
