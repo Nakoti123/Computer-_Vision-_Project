@@ -6,6 +6,10 @@ Python 3.x
 
 OpenCV
 
+face_recognition
+
+dlib
+
 NumPy
 # Usage
 -> Install the required dependencies using pip install -r requirements.txt.
