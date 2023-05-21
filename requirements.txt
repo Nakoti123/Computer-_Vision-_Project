@@ -1,4 +1,6 @@
 # Requirements
 Python 3.x
 OpenCV
+face_recognition
+dlib
 Numpy
